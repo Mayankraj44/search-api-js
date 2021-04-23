@@ -1,4 +1,4 @@
-import "./styles.css";
+
 const api = `https://randomuser.me/api`;
 const addUser = document.getElementById("add-btn");
 const mainApp = document.getElementById("app");
